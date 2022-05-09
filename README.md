@@ -1,4 +1,4 @@
-# Kaggle-competitions
+# Kaggle competitions
 
 ## Different kaggle competitions
 
